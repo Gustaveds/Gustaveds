@@ -1,3 +1,4 @@
+```
 >>> gustavo.info()
 <class 'Estudante'>
  #   Coluna        Valor
@@ -8,3 +9,4 @@
  3   background    FastAPI · Laravel
  4   status        aprendendo sempre
 dtypes: curiosidade(1), energético(∞)
+```
